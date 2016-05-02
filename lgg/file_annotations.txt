@@ -1,0 +1,5 @@
+ID	Disease	Item Type	Item Barcode	Item UUID	Classification	Category	Annotator	Date Created	Annotation
+20731	LGG	Patient	TCGA-DH-5141	2cf49bac-dea1-45ff-9e1d-09f5a2ac5215	Notification	Case submitted is found to be a recurrence after submission	sunq3	06/16/2014	patient had a prior lower grade glioma	
+20730	LGG	Patient	TCGA-DB-5270	b7cd3b44-ef6a-4207-a44f-14f5b3b56ed4	Notification	Case submitted is found to be a recurrence after submission	sunq3	06/16/2014	patient had a prior lower grade glioma	
+3416	LGG	Patient	TCGA-DB-5270	b7cd3b44-ef6a-4207-a44f-14f5b3b56ed4	Notification	Item does not meet study protocol	pyena	10/10/2011	[intgen.org]: Sample sent to TCGA was not the primary tumor. The initial surgery was a biopsy only with a diagnosis of a grade II oligodendroglioma where tumor was not completely removed. The patient did not receive any pharmaceutical or radiation therapy. Sample submitted was a progression of the tumor to a grade III oligodendroglioma
+	

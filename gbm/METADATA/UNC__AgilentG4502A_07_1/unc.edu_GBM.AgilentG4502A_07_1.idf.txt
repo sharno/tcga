@@ -1,0 +1,32 @@
+Investigation Title	Gene Expression Analysis of TCGA GBM samples	
+Experimental Design	reference_design	
+Experimental Design Term Source REF	MGED Ontology	
+Experimental Factor Name	tumor type	
+Experimental Factor Type	disease_state_design	 
+Experimental Factor Type Term Source REF	MGED Ontology	
+
+Person Last Name	Topal	Hoadley
+Person First Name	Michael	Katherine
+Person Email	michael_topal@med.unc.edu	hoadley@med.unc.edu
+Person Phone	919.966.8208	919.966.1752
+Person Address	"CB 7225 Lineberger Cancer Center, UNC, Chapel Hill, NC 27599"	"CB 7225 Lineberger Cancer Center, UNC, Chapel Hill, NC "
+Person Affiliation	Lineberger Cancer Center	Lineberger Cancer Center
+Person Roles	investigator	investigator
+Person Roles Term Source REF	MGED Ontology	MGED Ontology
+
+Date of Experiment	10/20/2007								
+Public Release Date	11/20/2007								
+
+Experiment Description	Gene Expression Analysis of TCGA GBM samples using Agilent Expression 244K microarrays. Batch 1 through Batch 4 was done in one print while batch 5 onwards was done using a differrent print. first print array design is AgilentG4502A_07_1 and the second one is AgilentG4502A_07_2.
+
+Protocol Name	unc.edu:split:AgilentG4502A_07_1:01	unc.edu:store:AgilentG4502A_07_1:01	tgen.org:biopsy:clin:01	tgen.org:nucleic_acid_extraction:clin:01	unc.edu:labeling:AgilentG4502A_07_1:01	unc.edu:hybridization:AgilentG4502A_07_1:01	unc.edu:feature_extraction:AgilentG4502A_07_1:01	unc.edu:unc_lowess_normalization_probe_level:AgilentG4502A_07_1:01	unc.edu:unc_lowess_normalization_gene_level:AgilentG4502A_07_1:01
+Protocol Type	split	store	biopsy	nucleic_acid_extraction	labeling	hybridization	feature_extraction 	Normalization	Normalization
+Protocol Description	split into aliquots 	store/freeze aliquots 	Standard BCR biopsy	Standard BCR DNA extraction	document available at http://bioinfostore.unc.edu/tcga/Agilent_Files/Two_color_v5-2.pdf and part of first archive.	document available at http://bioinfostore.unc.edu/tcga/Agilent_Files/Two_color_v5-2.pdf and part of first archive.	document available at http://bioinfostore.unc.edu/tcga/Agilent_Files/Two_color_v5-2.pdf and part of first archive.  	"Lowess normalized data, replicate probes were collapsed by averaging. lookup http://genome.unc.edu for lowess information"	Lowess normalized data at Gene Level. lookup http://genome.unc.edu for lowess information
+Protocol Parameters	none	none	None	Amplification	None	None	None	None	None
+Protocol Term Source REF	MGED Ontology	MGED Ontology	MGED Ontology	MGED Ontology	MGED Ontology	MGED Ontology	MGED Ontology	MGED Ontology	MGED Ontology
+
+SDRF Files	unc.edu_GBM.AgilentG4502A_07_1.sdrf.txt								
+
+Term Source Name	MGED Ontology	caArray	BCR	ncbitax	Agilent				
+Term Source File	http://mged.sourceforge.net/ontologies/MGEDontology.php	http://caarraydb.nci.nih.gov/	http://www.tgen.org	http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/	http://www.home.agilent.com				
+Term Source Version	1.3.0.1	2007-01	2007-01	2007-01	2007-01				
