@@ -1,0 +1,145 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (release 20160321)
+Annotation Version and Release Date:	GO Ontology database  Released 2016-04-23
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Bonferroni correction:	true
+GO biological process complete	Homo sapiens - REFLIST (20814)	upload_1 (916)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+Unclassified (UNCLASSIFIED)	3934	64	173.13	-	.37	0.00E00
+biological_process (GO:0008150)	16880	853	742.87	+	1.15	1.75E-21
+cellular process (GO:0009987)	14730	782	648.25	+	1.21	1.98E-21
+cellular component organization or biogenesis (GO:0071840)	5745	388	252.83	+	1.53	5.69E-18
+cellular component organization (GO:0016043)	5588	379	245.92	+	1.54	1.26E-17
+primary metabolic process (GO:0044238)	9379	538	412.76	+	1.30	5.97E-13
+cellular metabolic process (GO:0044237)	9234	531	406.38	+	1.31	8.28E-13
+organelle organization (GO:0006996)	3308	242	145.58	+	1.66	2.73E-12
+organic substance metabolic process (GO:0071704)	9702	547	426.97	+	1.28	1.02E-11
+metabolic process (GO:0008152)	10746	591	472.92	+	1.25	1.87E-11
+cellular macromolecule metabolic process (GO:0044260)	7364	440	324.08	+	1.36	2.22E-11
+biological regulation (GO:0065007)	11559	617	508.70	+	1.21	1.52E-09
+cellular localization (GO:0051641)	2083	164	91.67	+	1.79	2.09E-09
+macromolecule metabolic process (GO:0043170)	8085	464	355.81	+	1.30	2.38E-09
+regulation of biological process (GO:0050789)	11094	594	488.23	+	1.22	8.03E-09
+establishment of localization in cell (GO:0051649)	1670	135	73.49	+	1.84	7.02E-08
+regulation of metabolic process (GO:0019222)	6911	402	304.15	+	1.32	9.41E-08
+regulation of cellular process (GO:0050794)	10542	564	463.94	+	1.22	1.57E-07
+single-organism intracellular transport (GO:1902582)	1372	116	60.38	+	1.92	1.80E-07
+gene expression (GO:0010467)	4236	271	186.42	+	1.45	1.83E-07
+cellular nitrogen compound metabolic process (GO:0034641)	5778	344	254.28	+	1.35	6.80E-07
+single-organism localization (GO:1902578)	3582	235	157.64	+	1.49	7.26E-07
+single-organism process (GO:0044699)	13224	673	581.97	+	1.16	8.25E-07
+intracellular transport (GO:0046907)	1529	123	67.29	+	1.83	9.30E-07
+single-organism transport (GO:0044765)	3384	224	148.93	+	1.50	1.09E-06
+localization (GO:0051179)	5036	307	221.63	+	1.39	1.10E-06
+nitrogen compound metabolic process (GO:0006807)	6158	359	271.01	+	1.32	2.75E-06
+macromolecular complex subunit organization (GO:0043933)	2348	167	103.33	+	1.62	3.39E-06
+nucleobase-containing compound metabolic process (GO:0006139)	4928	299	216.88	+	1.38	3.85E-06
+regulation of cellular metabolic process (GO:0031323)	6100	355	268.45	+	1.32	4.73E-06
+cellular protein metabolic process (GO:0044267)	3914	248	172.25	+	1.44	5.13E-06
+establishment of localization (GO:0051234)	4165	260	183.30	+	1.42	6.88E-06
+heterocycle metabolic process (GO:0046483)	5149	308	226.60	+	1.36	8.53E-06
+regulation of primary metabolic process (GO:0080090)	5997	348	263.92	+	1.32	1.16E-05
+RNA metabolic process (GO:0016070)	3733	237	164.29	+	1.44	1.24E-05
+sensory perception of chemical stimulus (GO:0007606)	525	1	23.10	-	 < 0.2	1.40E-05
+organic cyclic compound metabolic process (GO:1901360)	5383	318	236.90	+	1.34	1.52E-05
+transport (GO:0006810)	4041	252	177.84	+	1.42	1.59E-05
+regulation of macromolecule metabolic process (GO:0060255)	6005	347	264.27	+	1.31	2.08E-05
+Golgi vesicle transport (GO:0048193)	349	43	15.36	+	2.80	3.02E-05
+organic substance biosynthetic process (GO:1901576)	5234	309	230.34	+	1.34	3.30E-05
+regulation of cellular component organization (GO:0051128)	2276	159	100.16	+	1.59	3.38E-05
+cellular component biogenesis (GO:0044085)	2388	165	105.09	+	1.57	3.43E-05
+macromolecular complex assembly (GO:0065003)	1420	111	62.49	+	1.78	4.02E-05
+protein localization (GO:0008104)	1774	131	78.07	+	1.68	4.33E-05
+single-organism cellular process (GO:0044763)	12003	613	528.24	+	1.16	4.78E-05
+macromolecule localization (GO:0033036)	2125	150	93.52	+	1.60	5.30E-05
+biosynthetic process (GO:0009058)	5321	312	234.17	+	1.33	5.46E-05
+cellular biosynthetic process (GO:0044249)	5159	304	227.04	+	1.34	5.90E-05
+positive regulation of biological process (GO:0048518)	5476	319	240.99	+	1.32	6.57E-05
+cellular protein modification process (GO:0006464)	3087	200	135.86	+	1.47	8.37E-05
+protein modification process (GO:0036211)	3087	200	135.86	+	1.47	8.37E-05
+macromolecule modification (GO:0043412)	3322	212	146.20	+	1.45	8.66E-05
+macromolecule biosynthetic process (GO:0009059)	4181	255	184.00	+	1.39	9.59E-05
+cellular aromatic compound metabolic process (GO:0006725)	5165	303	227.31	+	1.33	1.01E-04
+nervous system development (GO:0007399)	2355	161	103.64	+	1.55	1.13E-04
+cellular macromolecule biosynthetic process (GO:0034645)	4097	250	180.30	+	1.39	1.38E-04
+regulation of cell communication (GO:0010646)	3127	201	137.62	+	1.46	1.39E-04
+nucleic acid metabolic process (GO:0090304)	4390	264	193.20	+	1.37	1.70E-04
+detection of chemical stimulus involved in sensory perception (GO:0050907)	467	1	20.55	-	 < 0.2	1.71E-04
+detection of stimulus involved in sensory perception (GO:0050906)	518	2	22.80	-	 < 0.2	2.31E-04
+sensory perception of smell (GO:0007608)	451	1	19.85	-	 < 0.2	3.39E-04
+regulation of biological quality (GO:0065008)	3602	223	158.52	+	1.41	3.73E-04
+cellular component assembly (GO:0022607)	2124	146	93.47	+	1.56	4.48E-04
+negative regulation of Wnt signaling pathway (GO:0030178)	202	29	8.89	+	3.26	4.82E-04
+positive regulation of cellular process (GO:0048522)	4728	278	208.07	+	1.34	4.85E-04
+G-protein coupled receptor signaling pathway (GO:0007186)	1222	20	53.78	-	.37	4.94E-04
+chromosome organization (GO:0051276)	1092	88	48.06	+	1.83	4.98E-04
+regulation of molecular function (GO:0065009)	2832	183	124.63	+	1.47	5.22E-04
+protein metabolic process (GO:0019538)	4673	275	205.65	+	1.34	5.54E-04
+protein complex assembly (GO:0006461)	1147	91	50.48	+	1.80	5.83E-04
+protein complex biogenesis (GO:0070271)	1147	91	50.48	+	1.80	5.83E-04
+single-organism organelle organization (GO:1902589)	2269	153	99.86	+	1.53	6.61E-04
+protein complex subunit organization (GO:0071822)	1629	118	71.69	+	1.65	7.63E-04
+detection of chemical stimulus involved in sensory perception of smell (GO:0050911)	424	1	18.66	-	 < 0.2	1.07E-03
+negative regulation of biological process (GO:0048519)	4624	270	203.50	+	1.33	1.57E-03
+neurogenesis (GO:0022008)	1707	121	75.12	+	1.61	1.59E-03
+single-organism metabolic process (GO:0044710)	5337	304	234.88	+	1.29	1.77E-03
+regulation of response to stimulus (GO:0048583)	3823	230	168.25	+	1.37	2.08E-03
+negative regulation of response to stimulus (GO:0048585)	1386	102	61.00	+	1.67	3.08E-03
+system development (GO:0048731)	4147	245	182.50	+	1.34	3.10E-03
+organic substance transport (GO:0071702)	2009	136	88.41	+	1.54	3.24E-03
+protein transport (GO:0015031)	1267	95	55.76	+	1.70	3.63E-03
+chromatin assembly or disassembly (GO:0006333)	150	23	6.60	+	3.48	3.66E-03
+cellular response to stress (GO:0033554)	1811	125	79.70	+	1.57	3.87E-03
+establishment of protein localization (GO:0045184)	1376	101	60.56	+	1.67	3.97E-03
+cellular nitrogen compound biosynthetic process (GO:0044271)	3898	232	171.55	+	1.35	4.17E-03
+nucleobase-containing compound biosynthetic process (GO:0034654)	3338	203	146.90	+	1.38	6.65E-03
+transcription, DNA-templated (GO:0006351)	2786	175	122.61	+	1.43	6.81E-03
+nucleic acid-templated transcription (GO:0097659)	2787	175	122.65	+	1.43	6.97E-03
+RNA biosynthetic process (GO:0032774)	2931	182	128.99	+	1.41	8.08E-03
+membrane organization (GO:0061024)	1013	79	44.58	+	1.77	8.56E-03
+heterocycle biosynthetic process (GO:0018130)	3451	208	151.87	+	1.37	8.68E-03
+regulation of cellular biosynthetic process (GO:0031326)	4409	255	194.03	+	1.31	9.03E-03
+cellular developmental process (GO:0048869)	3635	217	159.97	+	1.36	9.21E-03
+axon development (GO:0061564)	697	60	30.67	+	1.96	9.24E-03
+negative regulation of cellular process (GO:0048523)	4246	247	186.86	+	1.32	9.29E-03
+single-organism developmental process (GO:0044767)	5414	303	238.26	+	1.27	9.70E-03
+regulation of nitrogen compound metabolic process (GO:0051171)	4501	259	198.08	+	1.31	1.07E-02
+chromatin organization (GO:0006325)	669	58	29.44	+	1.97	1.13E-02
+DNA conformation change (GO:0071103)	333	36	14.65	+	2.46	1.16E-02
+vesicle-mediated transport (GO:0016192)	1268	93	55.80	+	1.67	1.21E-02
+regulation of signaling (GO:0023051)	3089	189	135.94	+	1.39	1.23E-02
+cellular macromolecular complex assembly (GO:0034622)	723	61	31.82	+	1.92	1.41E-02
+regulation of catabolic process (GO:0009894)	740	62	32.57	+	1.90	1.45E-02
+developmental process (GO:0032502)	5502	306	242.14	+	1.26	1.46E-02
+organic cyclic compound biosynthetic process (GO:1901362)	3579	213	157.51	+	1.35	1.49E-02
+nucleosome organization (GO:0034728)	140	21	6.16	+	3.41	1.60E-02
+cellular macromolecule localization (GO:0070727)	1188	88	52.28	+	1.68	1.61E-02
+chromatin assembly (GO:0031497)	129	20	5.68	+	3.52	1.72E-02
+regulation of cellular catabolic process (GO:0031329)	631	55	27.77	+	1.98	1.81E-02
+regulation of organelle organization (GO:0033043)	1157	86	50.92	+	1.69	1.85E-02
+detection of chemical stimulus (GO:0009593)	505	4	22.22	-	 < 0.2	1.87E-02
+cellular protein localization (GO:0034613)	1176	87	51.75	+	1.68	1.94E-02
+generation of neurons (GO:0048699)	1629	112	71.69	+	1.56	1.97E-02
+regulation of biosynthetic process (GO:0009889)	4458	255	196.19	+	1.30	2.16E-02
+detection of stimulus (GO:0051606)	740	10	32.57	-	.31	2.33E-02
+protein modification by small protein conjugation or removal (GO:0070647)	886	70	38.99	+	1.80	2.34E-02
+multicellular organism development (GO:0007275)	4737	268	208.47	+	1.29	2.52E-02
+axonogenesis (GO:0007409)	672	57	29.57	+	1.93	2.65E-02
+aromatic compound biosynthetic process (GO:0019438)	3449	205	151.79	+	1.35	2.73E-02
+single-multicellular organism process (GO:0044707)	5587	308	245.88	+	1.25	2.89E-02
+sensory perception (GO:0007600)	943	16	41.50	-	.39	3.16E-02
+negative regulation of cell communication (GO:0010648)	1209	88	53.21	+	1.65	3.17E-02
+regulation of gene expression (GO:0010468)	4460	254	196.28	+	1.29	3.20E-02
+neuron projection morphogenesis (GO:0048812)	745	61	32.79	+	1.86	3.55E-02
+regulation of anatomical structure morphogenesis (GO:0022603)	1001	76	44.05	+	1.73	3.57E-02
+cellular response to chemical stimulus (GO:0070887)	2667	165	117.37	+	1.41	3.66E-02
+cell morphogenesis involved in neuron differentiation (GO:0048667)	716	59	31.51	+	1.87	4.23E-02
+nucleosome assembly (GO:0006334)	114	18	5.02	+	3.59	4.28E-02
+neuron development (GO:0048666)	1024	77	45.07	+	1.71	4.32E-02
+regulation of receptor activity (GO:0010469)	115	18	5.06	+	3.56	4.81E-02
+regulation of signal transduction (GO:0009966)	2740	168	120.58	+	1.39	4.90E-02
+regulation of cellular macromolecule biosynthetic process (GO:2000112)	4113	236	181.01	+	1.30	4.91E-02
